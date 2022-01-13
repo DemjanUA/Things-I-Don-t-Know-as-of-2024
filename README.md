@@ -12,3 +12,5 @@ Things I Don’t Know as of 2021
 * Dynamic Programming
   - Top-Down Dynamic Programming (or Memoization)
   - Bottom-Up Dynamic Programming
+* Terms
+  - Separation of concerns
