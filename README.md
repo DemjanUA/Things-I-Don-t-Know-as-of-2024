@@ -14,5 +14,9 @@ Things I Don’t Know as of 2021
   - Bottom-Up Dynamic Programming
 * Architectural patterns
   - SOA (service-oriented architecture)
+  - CQRS and event sourcing
+* Graph databases
+* Migration strategies
 * Terms
   - Separation of concerns
+* Metaprogramming
