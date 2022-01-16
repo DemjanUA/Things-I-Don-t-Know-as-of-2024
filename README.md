@@ -20,3 +20,5 @@ Things I Don’t Know as of 2021
 * Terms
   - Separation of concerns
 * Metaprogramming
+* Libs
+  - React Query
