@@ -16,6 +16,8 @@ Things I Don’t Know as of 2021
   - SOA (service-oriented architecture)
   - CQRS and event sourcing
 * Graph databases
+* Protocols 
+  - Remote procedure call
 * Migration strategies
 * Terms
   - Separation of concerns
