@@ -1,6 +1,10 @@
 # Things-I-Don-t-Know-as-of-2021
 Things I Don’t Know as of 2021
 
+* Algorithm
+  - -
+* Data structures
+  - Disjoint sets, root array, Quick Find, Quick Union
 * React batching 18 and beyond
   - Automatic batching
   - Suspense on the server
