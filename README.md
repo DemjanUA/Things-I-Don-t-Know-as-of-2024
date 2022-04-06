@@ -5,6 +5,7 @@ Things I Don’t Know as of 2021
   - -
 * Data structures
   - Disjoint sets, root array, Quick Find, Quick Union
+  - Hash table, hash function
 * React batching 18 and beyond
   - Automatic batching
   - Suspense on the server
