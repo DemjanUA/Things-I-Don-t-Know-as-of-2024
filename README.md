@@ -4,7 +4,7 @@ Things I Don’t Know as of 2021
 * Algorithm
   - -
 * Data structures
-  - Disjoint sets, root array, Quick Find, Quick Union
+  - Disjoint sets, root array, Quick Find, Quick Union, Union by Rank
   - Hash table, hash function
 * React batching 18 and beyond
   - Automatic batching
