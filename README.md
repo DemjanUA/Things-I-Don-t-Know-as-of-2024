@@ -22,7 +22,8 @@ Things I Don’t Know as of 2021
 * Graph databases
 * Protocols
   - SSL
-  - Remote procedure call
+  - Remote procedure call (RPC)
+  - Server Message Block (SMB)
 * Migration strategies
 * Terms
   - Separation of concerns
