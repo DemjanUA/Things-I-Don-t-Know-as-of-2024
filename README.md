@@ -19,8 +19,12 @@ Things I Don’t Know as of 2021
   - Top-Down Dynamic Programming (or Memoization)
   - Bottom-Up Dynamic Programming
 * Architectural patterns
+  - MVC, MVP, MVVM
+  - N-tier architecture
   - SOA (service-oriented architecture)
   - CQRS and event sourcing
+* Design patterns
+  - Data Transfer Object Pattern
 * Graph databases
 * Protocols
   - SSL
