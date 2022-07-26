@@ -38,3 +38,6 @@ Things I Don’t Know as of 2021
   - React Query
   - RxJS
 * VMs (Register-based vs Stack-based)
+* Clean code and Refactoring
+  - Cyclomatic Complexity
+  - Cognitive Complexity
