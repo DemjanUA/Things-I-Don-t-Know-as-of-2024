@@ -1,4 +1,4 @@
-# Things-I-Don-t-Know-as-of-2021
+# Things-I-Don-t-Know-as-of-2022
 Things I Don’t Know as of 2021
 
 * Algorithm
@@ -6,8 +6,15 @@ Things I Don’t Know as of 2021
 * Data structures
   - Disjoint sets, root array, Quick Find, Quick Union, Union by Rank
   - Hash table, hash function
+* Automata theory
+  - FSM (Finite-state machine)
+  - Turing machine
+* Front-end
+  - React
 * Back-end
-  - Retry strategy/Retry pattern
+  - Retry strategy/Retry pattern  
+* API
+
 * React batching 18 and beyond
   - Automatic batching
   - Suspense on the server
@@ -25,7 +32,8 @@ Things I Don’t Know as of 2021
   - CQRS and event sourcing
 * Design patterns
   - Data Transfer Object Pattern
-* Graph databases
+* Databases
+  - Graph databases
 * Protocols
   - SSL
   - Remote procedure call (RPC)
@@ -38,6 +46,6 @@ Things I Don’t Know as of 2021
   - React Query
   - RxJS
 * VMs (Register-based vs Stack-based)
-* Clean code and Refactoring
+* Clean code and refactoring
   - Cyclomatic Complexity
   - Cognitive Complexity
