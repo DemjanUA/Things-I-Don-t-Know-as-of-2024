@@ -14,7 +14,6 @@ Things I Don’t Know as of 2021
 * Back-end
   - Retry strategy/Retry pattern  
 * API
-
 * React batching 18 and beyond
   - Automatic batching
   - Suspense on the server
