@@ -12,7 +12,7 @@ Things I Don’t Know as of 2021
 * Front-end
   <ul>
     <li>Browser API's</li>
-      - Intersection Observer API
+      * Intersection Observer API
     <li>React</li>
   </ul>
 * Back-end
