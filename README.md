@@ -10,6 +10,8 @@ Things I Don’t Know as of 2021
   - FSM (Finite-state machine)
   - Turing machine
 * Front-end
+  - Browser API's
+    - Intersection Observer API
   - React
 * Back-end
   - Retry strategy/Retry pattern  
