@@ -49,6 +49,13 @@ Things I Don’t Know as of 2021
   - React Query
   - RxJS
 * VMs (Register-based vs Stack-based)
+* DevOps, Clouds, Infrastructure
+  - AWS
+  - GCP
+  - Infrastructure as a Service (IaaS)
+  - Containers as a Service (CaaS)
+  - Platform as a Service (PaaS)
+  - Functions as a Service (FaaS)
 * Clean code and refactoring
   - Cyclomatic Complexity
   - Cognitive Complexity
