@@ -6,4 +6,4 @@
   - Automatic Batching
   - Transitions
   - Suspense
-  - hooks (startTransition, useId, useDeferredValue, useSyncExternalStore, useInsertionEffect)
+  - hooks (`startTransition`, `useId`, `useDeferredValue`, `useSyncExternalStore`, `useInsertionEffect`)
