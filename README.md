@@ -1,7 +1,7 @@
 # Things-I-Don-t-Know-as-of-2023
 Things I Don’t Know as of 2021
 
-* Algorithm
+* Algorithms
   - -
 * Data structures
   - Disjoint sets, root array, Quick Find, Quick Union, Union by Rank
