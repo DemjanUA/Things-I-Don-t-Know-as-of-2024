@@ -14,7 +14,7 @@ Things I Don’t Know as of 2021
   <ul>
     <li>Browser API's</li>
       * Intersection Observer API
-    <li>React</li>
+  <li>Tag <code>script</code> / [async, defer]</li>
   </ul>
 * Back-end
   - Retry strategy/Retry pattern  
