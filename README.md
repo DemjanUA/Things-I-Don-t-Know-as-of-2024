@@ -6,6 +6,8 @@ Things I Don’t Know as of 2021
 * Data structures
   - Disjoint sets, root array, Quick Find, Quick Union, Union by Rank
   - Hash table, hash function
+  - SSTables
+  - Bloom Filter
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
