@@ -1,5 +1,5 @@
-# Things-I-Don-t-Know-as-of-2023
-Things I Don’t Know as of 2021
+# Things-I-Don-t-Know-as-of-2024
+Things I Don’t Know as of 2024
 
 * Algorithms
   - -
@@ -31,6 +31,7 @@ Things I Don’t Know as of 2021
 * Architectural patterns
   - MV* (MVC, MVP, MVVM)
   - N-tier architecture
+  - Hexagonal architecture
   - SOA (service-oriented architecture)
   - CQRS and event sourcing
 * Design patterns
