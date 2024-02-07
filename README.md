@@ -19,7 +19,10 @@ Things I Don’t Know as of 2024
   <li>Tag <code>script</code> / [async, defer]</li>
   </ul>
 * Back-end
-  - Retry strategy/Retry pattern  
+  - Retry strategy/Retry pattern
+  - Timeouts, retries and backoff
+  - Exponential Backoff And Jitter
+  - 
 * API
 * React batching 18 and beyond
   - Automatic batching
