@@ -10,6 +10,11 @@ Things I Don’t Know as of 2024
   - Random numbers generation
   - Digital signatures
   - Authentication
+* Computer Networks
+  - Protocols
+    - Secure Sockets Layer (SSL)
+    - Remote procedure call (RPC)
+    - Server Message Block (SMB)
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
@@ -49,10 +54,6 @@ Things I Don’t Know as of 2024
   - NoSQL database
   - Graph databases
   - Data migration strategies
-* Protocols
-  - SSL
-  - Remote procedure call (RPC)
-  - Server Message Block (SMB)
 * Terms
   - Separation of concerns
 * Libs
