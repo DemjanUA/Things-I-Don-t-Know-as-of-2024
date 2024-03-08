@@ -31,9 +31,9 @@ Things I Don’t Know as of 2024
   - Hexagonal architecture
   - SOA (service-oriented architecture)
   - CQRS and event sourcing
-  - Repository Design Pattern
 * Design patterns
   - Data Transfer Object Pattern
+  - Repository Design Pattern
 * Databases
   - Relational database
   - NoSQL database
