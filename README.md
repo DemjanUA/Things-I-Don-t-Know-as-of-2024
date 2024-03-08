@@ -1,4 +1,4 @@
-# Things-I-Don-t-Know-as-of-2024
+# Things I Do and Don't Know as of 2024
 Things I Don’t Know as of 2024
 
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms-and-data-structures.md)
