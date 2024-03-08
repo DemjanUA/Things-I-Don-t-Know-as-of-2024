@@ -13,23 +13,25 @@ Things I Don’t Know as of 2024
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
-* Front-end
+* Front-end development
   - [React](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/react.md)
   <ul>
     <li>Browser API's</li>
       * Intersection Observer API
   <li>Tag <code>script</code> / [async, defer]</li>
   </ul>
-* Back-end
+* Back-end development
   - Retry strategy/Retry pattern
   - Timeouts, retries and backoff
   - Exponential Backoff And Jitter
-  - 
 * API
 * React batching 18 and beyond
   - Automatic batching
   - Suspense on the server
   - New APIs
+* OOP programming
+* Functional programming
+* Metaprogramming
 * Dynamic Programming
   - Top-Down Dynamic Programming (or Memoization)
   - Bottom-Up Dynamic Programming
@@ -46,14 +48,13 @@ Things I Don’t Know as of 2024
   - Relational database
   - NoSQL database
   - Graph databases
+  - Data migration strategies
 * Protocols
   - SSL
   - Remote procedure call (RPC)
   - Server Message Block (SMB)
-* Migration strategies
 * Terms
   - Separation of concerns
-* Metaprogramming
 * Libs
   - React Query
   - RxJS
