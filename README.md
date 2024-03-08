@@ -1,13 +1,7 @@
 # Things-I-Don-t-Know-as-of-2024
 Things I Don’t Know as of 2024
 
-* Algorithms
-  - -
-* Data structures
-  - Disjoint sets, root array, Quick Find, Quick Union, Union by Rank
-  - Hash table, hash function
-  - SSTables
-  - Bloom Filter
+* [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms-and-data-structures.md)
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
