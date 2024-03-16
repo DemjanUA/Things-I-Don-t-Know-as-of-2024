@@ -48,7 +48,7 @@ Things I Don’t Know as of 2024
   - SOA (service-oriented architecture)
   - CQRS and event sourcing
 * Design patterns
-  - Data Transfer Object Pattern
+  - Data Transfer Object Pattern, DTO assemblers
   - Repository Design Pattern
 * Databases
   - Relational database
