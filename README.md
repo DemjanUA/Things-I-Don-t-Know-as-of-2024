@@ -29,6 +29,7 @@ Things I Don’t Know as of 2024
   - Retry strategy/Retry pattern
   - Timeouts, retries and backoff
   - Exponential Backoff And Jitter
+  - Event Sourcing/Event Logging
 * API
 * React batching 18 and beyond
   - Automatic batching
