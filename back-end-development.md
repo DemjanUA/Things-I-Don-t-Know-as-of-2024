@@ -5,3 +5,10 @@
   - Timeouts, retries and backoff
   - Exponential Backoff And Jitter
   - Event Sourcing/Event Logging
+* Transport layer
+  - SOAP
+  - RestAPI (HTTP)
+  - GraphQL
+  - WebSockets
+  - gRPC
+  - Webhooks
