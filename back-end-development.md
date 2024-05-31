@@ -12,3 +12,5 @@
   - WebSockets
   - gRPC
   - Webhooks
+* XSLT / XML / XSD
+* JSON
