@@ -6,7 +6,7 @@ Things I Don’t Know as of 2024
   - Encryption
   - Steganography
   - Cryptography
-  - Рashing
+  - Hashing
   - Random numbers generation
   - Digital signatures
   - Authentication
