@@ -25,11 +25,7 @@ Things I Don’t Know as of 2024
       * Intersection Observer API
   <li>Tag <code>script</code> / [async, defer]</li>
   </ul>
-* Back-end development
-  - Retry strategy/Retry pattern
-  - Timeouts, retries and backoff
-  - Exponential Backoff And Jitter
-  - Event Sourcing/Event Logging
+* [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
 * API
 * React batching 18 and beyond
   - Automatic batching
