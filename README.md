@@ -12,6 +12,7 @@ Things I Don’t Know as of 2024
   - Digital signatures
   - Authentication and Authorization
   - MD5, SHA1, SHA2, SHA3, etc
+  - Rainbow table attack
 * Computer Networks
   - Protocols
     - Secure Sockets Layer (SSL)
