@@ -4,12 +4,14 @@ Things I Don’t Know as of 2024
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms-and-data-structures.md)
 * Software and Data Security (Cybersecurity)
   - Encryption
+    - Blowfish encryption
   - Steganography
   - Cryptography
   - Hashing
   - Random numbers generation
   - Digital signatures
-  - Authentication
+  - Authentication and Authorization
+  - MD5, SHA1, SHA2, SHA3, etc
 * Computer Networks
   - Protocols
     - Secure Sockets Layer (SSL)
