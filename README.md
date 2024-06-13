@@ -16,6 +16,9 @@ Things I Don’t Know as of 2024
 * Computer Networks
   - Protocols
     - Secure Sockets Layer (SSL)
+      - SSL Passthrough
+      - SSL Offloading
+      - SSL Termination
     - Remote procedure call (RPC)
     - Server Message Block (SMB)
 * Automata theory
