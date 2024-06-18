@@ -12,7 +12,7 @@ Things I Don’t Know as of 2024
   - Digital signatures
   - Authentication
     - JSON Web Token (JWT)
-    - Refresh token and token invalidation
+    - Refresh token, token invalidation, automatic reuse detection
     - Token rotation
   - Authorization
     - Discretionary Access Control (DAC)
