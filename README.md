@@ -10,7 +10,20 @@ Things I Don’t Know as of 2024
   - Hashing
   - Random numbers generation
   - Digital signatures
-  - Authentication and Authorization
+  - Authentication
+    - JSON Web Token (JWT)
+    - Refresh token
+    - Token rotation
+  - Authorization
+    - Discretionary Access Control (DAC)
+    - Mandatory Access Control (MAC)
+    - Attribute-Based Access Control (ABAC)
+    - Rule-Based Access Control
+    - Policy-Based Access Control (PBAC)
+    - Identity-Based Access Control (IBAC)
+    - Task-Based Access Control (TBAC)
+    - Context-Based Access Control (CBAC)
+    - Usage Control (UCON)
   - MD5, SHA1, SHA2, SHA3, etc
   - Rainbow table attack
 * Computer Networks
