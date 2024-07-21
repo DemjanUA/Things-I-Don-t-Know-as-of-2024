@@ -23,17 +23,19 @@ Things I Don’t Know as of 2024
       - SSL Termination
     - Remote procedure call (RPC)
     - Server Message Block (SMB)
-* Automata theory
-  - FSM (Finite-state machine)
-  - Turing machine
+* Databases
+  - Relational database
+  - NoSQL database
+  - Graph databases
+  - Data migration strategies
+* Operating Systems
 * [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front-end-development.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
 * API
-* React batching 18 and beyond
-  - Automatic batching
-  - Suspense on the server
-  - New APIs
 * OOP programming
+  - SOLID
+  - Inheritance vs Composition
+  - Overload vs Override
 * Functional programming
 * Metaprogramming
 * Dynamic Programming
@@ -50,11 +52,9 @@ Things I Don’t Know as of 2024
 * Design patterns
   - Data Transfer Object Pattern, DTO assemblers
   - Repository Design Pattern
-* Databases
-  - Relational database
-  - NoSQL database
-  - Graph databases
-  - Data migration strategies
+* Automata theory
+  - FSM (Finite-state machine)
+  - Turing machine
 * Terms
   - Separation of concerns
 * Libs
@@ -64,6 +64,7 @@ Things I Don’t Know as of 2024
 * DevOps, Clouds, Infrastructure
   - AWS
   - GCP
+  - Kubernetes (K8s)
   - Infrastructure as a Service (IaaS)
   - Containers as a Service (CaaS)
   - Platform as a Service (PaaS)
