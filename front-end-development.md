@@ -9,6 +9,13 @@
   </ul>
 
 <details>
+  <summary>Navigation and Routing</summary>
+  <ul>
+    <li>- - -</li>
+  </ul>
+</details>
+
+<details>
   <summary>Accessibility</summary>
   <ul>
     <li>WCAG 2</li>
@@ -17,6 +24,13 @@
 
 <details>
   <summary>Internationalization (i18n)</summary>
+  <ul>
+    <li>- - -</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Localization (l10n)</summary>
   <ul>
     <li>- - -</li>
   </ul>
