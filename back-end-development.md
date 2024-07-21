@@ -41,6 +41,16 @@
   </pre>
 </details>
 <details>
+  <summary>Caching</summary>
+  <pre>
+  </pre>
+</details>
+<details>
+  <summary>Internationalization (i18n)</summary>
+  <pre>
+  </pre>
+</details>
+<details>
   <summary>Deployment, CI/CD</summary>
   <pre>
   - Deployment patterns
