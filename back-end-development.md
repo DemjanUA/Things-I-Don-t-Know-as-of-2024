@@ -12,5 +12,42 @@
   - WebSockets
   - gRPC
   - Webhooks
-* XSLT / XML / XSD
-* JSON
+* Data formats
+  - XSLT / XML / XSD
+  - JSON
+<details>
+  <summary>Authentication & Authorization</summary>
+  <pre>
+  - Session-based Authentication
+  - JSON Web Token (JWT)
+  - Refresh token, token invalidation, automatic reuse detection, Token rotation
+  - Two-Factor Authentication (2FA)
+  - Single Sign-On (SSO)
+  - Access Control
+    - Discretionary Access Control (DAC)
+    - Mandatory Access Control (MAC)
+    - Attribute-Based Access Control (ABAC)
+    - Rule-Based Access Control
+    - Policy-Based Access Control (PBAC)
+    - Identity-Based Access Control (IBAC)
+    - Task-Based Access Control (TBAC)
+    - Context-Based Access Control (CBAC)
+    - Usage Control (UCON)
+  </pre>
+</details>
+<details>
+  <summary>Logging and Monitoring</summary>
+  <pre>
+  </pre>
+</details>
+<details>
+  <summary>Deployment, CI/CD</summary>
+  <pre>
+  - Deployment patterns
+    - Canary Releases
+    - Blue/Green deployment
+    - Feature toggles
+    - A/B testing
+    - Dark launch
+  </pre>
+</details>
