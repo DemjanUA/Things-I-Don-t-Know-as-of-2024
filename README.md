@@ -26,13 +26,7 @@ Things I Don’t Know as of 2024
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
-* Front-end development
-  - [React](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/react.md)
-  <ul>
-    <li>Browser API's</li>
-      * Intersection Observer API
-  <li>Tag <code>script</code> / [async, defer]</li>
-  </ul>
+* [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front-end-development.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
 * API
 * React batching 18 and beyond
