@@ -52,6 +52,7 @@ Things I Don’t Know as of 2024
 * Design patterns
   - Data Transfer Object Pattern, DTO assemblers
   - Repository Design Pattern
+  - Saga (transaction management)
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
