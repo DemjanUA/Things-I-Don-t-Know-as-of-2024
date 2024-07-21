@@ -41,6 +41,12 @@
   </pre>
 </details>
 <details>
+  <summary>Testing and quality assurance</summary>
+  <pre>
+  - Linting
+  </pre>
+</details>
+<details>
   <summary>Caching</summary>
   <pre>
   </pre>
