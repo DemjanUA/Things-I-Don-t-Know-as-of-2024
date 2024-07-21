@@ -49,7 +49,9 @@ Things I Don’t Know as of 2024
   - MV* (MVC, MVP, MVVM)
   - N-tier architecture
   - Hexagonal architecture
-  - SOA (service-oriented architecture)
+  - Monolithic architecture
+  - Microservices architecture
+  - Service-oriented architecture (SOA)
   - CQRS and event sourcing
 * Design patterns
   - Data Transfer Object Pattern, DTO assemblers
