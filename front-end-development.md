@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>Applications design and architecture</summary>
+  <summary>Design and Architecture</summary>
   <ul>
     <li>Microfrontend</li>
   </ul>
