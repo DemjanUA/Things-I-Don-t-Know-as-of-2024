@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>Building, Bundling, Post-processing</summary>
+  <summary>Building, Bundling and Post-processing</summary>
   <ul>
     <li>Webpack</li>
     <li>Vitejs</li>
