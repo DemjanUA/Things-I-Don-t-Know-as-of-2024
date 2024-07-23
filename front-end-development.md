@@ -35,3 +35,18 @@
     <li>- - -</li>
   </ul>
 </details>
+
+<details>
+  <summary>Applications design and architecture</summary>
+  <ul>
+    <li>Microfrontend</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Building, Bundling, Post-processing</summary>
+  <ul>
+    <li>Webpack</li>
+    <li>Vitejs</li>
+  </ul>
+</details>
