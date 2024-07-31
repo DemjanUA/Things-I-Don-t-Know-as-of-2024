@@ -28,6 +28,8 @@ Things I Don’t Know as of 2024
   - NoSQL database
   - Graph databases
   - Data migration strategies
+  - Transactions
+    - Isolation (Transaction Isolation Levels)
 * Operating Systems
 * [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front-end-development.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
