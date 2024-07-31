@@ -28,7 +28,8 @@ Things I Don’t Know as of 2024
   - NoSQL database
   - Graph databases
   - Data migration strategies
-  - Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
+  - Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF ([video](https://www.youtube.com/watch?v=GFQaEYEc8_8&ab_channel=Decomplexify))
+  - Database Denormalization ([video](https://www.youtube.com/watch?v=4bTq0GdSeQs&ab_channel=Decomplexify))
   - Transactions
     - Isolation (Transaction Isolation Levels)
 * Operating Systems
