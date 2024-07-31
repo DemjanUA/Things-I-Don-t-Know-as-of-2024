@@ -59,6 +59,9 @@ Things I Don’t Know as of 2024
   - [Software Architecture Methodology](https://magdamiu.com/2021/02/22/software-architecture-methodology/)
   - [Visualising software architecture with the C4 model – Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g&ab_channel=AgileontheBeach)
   - [Software Architecture Guide](https://martinfowler.com/architecture/)
+  - Entity–relationship model
+  - Use case diagram
+  - Work Breakdown Structure (WBS) 
 * Automata theory
   - FSM (Finite-state machine)
   - Turing machine
