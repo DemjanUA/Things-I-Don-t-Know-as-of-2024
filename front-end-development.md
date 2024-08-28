@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary>Software Analytics and Monitoring</summary>
+  <summary>Software Analytics, Monitoring and Audit</summary>
   <ul>
     <li>Webpack</li>
     <li>Vitejs</li>
