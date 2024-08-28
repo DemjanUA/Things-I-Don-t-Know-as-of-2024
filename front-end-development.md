@@ -37,6 +37,14 @@
 </details>
 
 <details>
+  <summary>Building, Bundling and Post-processing</summary>
+  <ul>
+    <li>Webpack</li>
+    <li>Vitejs</li>
+  </ul>
+</details>
+
+<details>
   <summary>Design and Architecture</summary>
   <ul>
     <li>Microfrontend</li>
@@ -44,7 +52,7 @@
 </details>
 
 <details>
-  <summary>Building, Bundling and Post-processing</summary>
+  <summary>Software Analytics and Monitoring</summary>
   <ul>
     <li>Webpack</li>
     <li>Vitejs</li>
