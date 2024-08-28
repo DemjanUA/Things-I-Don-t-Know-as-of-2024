@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>Building, Bundling and Post-processing</summary>
+  <summary>Building, Bundling, Post-processing</summary>
   <ul>
     <li>Webpack</li>
     <li>Vitejs</li>
@@ -53,6 +53,14 @@
 
 <details>
   <summary>Software Analytics and Monitoring</summary>
+  <ul>
+    <li>Webpack</li>
+    <li>Vitejs</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Debuging, Profiling, Performance</summary>
   <ul>
     <li>Webpack</li>
     <li>Vitejs</li>
