@@ -52,10 +52,18 @@
 </details>
 
 <details>
-  <summary>Software Analytics, Monitoring and Audit</summary>
+  <summary>Analytics</summary>
   <ul>
-    <li>Webpack</li>
-    <li>Vitejs</li>
+    <li>*</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Monitoring, Observability, and Audit</summary>
+  <ul>
+    <li>Synthetic (proactive) monitoring</li>
+    <li>Passive monitoring</li>
+    <li>Logs, Metrics, and Traces</li>
   </ul>
 </details>
 
