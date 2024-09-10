@@ -14,6 +14,7 @@ Things I Don’t Know as of 2024
   - Rainbow table attack
   - Authentication & Authorization
     - 2FA
+    - OTP (One-time password), Time-based (TOTP) and HMAC-based (HOTP)
     - SSO
 * Computer Networks
   - Protocols
