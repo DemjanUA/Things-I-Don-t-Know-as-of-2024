@@ -1,7 +1,7 @@
 # Things I Do and Don't Know as of 2024
 Things I Don’t Know as of 2024
 
-* [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms-and-data-structures.md)
+* [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms%20and%20data%20structures/index.md)
 * [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md)
 
 * [Computer Networks](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/computer%20networks/index.md)
