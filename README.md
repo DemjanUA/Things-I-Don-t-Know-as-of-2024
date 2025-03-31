@@ -2,16 +2,9 @@
 Things I Don’t Know as of 2024
 
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms-and-data-structures.md)
-* [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software-and-data-security/index.md)
+* [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md)
 
-* Computer Networks
-  - Protocols
-    - Secure Sockets Layer (SSL)
-      - SSL Passthrough
-      - SSL Offloading
-      - SSL Termination
-    - Remote procedure call (RPC)
-    - Server Message Block (SMB)
+* [Computer Networks](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/computer%20networks/index.md)
 * Databases
   - Relational database
   - NoSQL database
