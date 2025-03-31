@@ -5,6 +5,7 @@ Things I Don’t Know as of 2024
 * [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md)
 
 * [Computer Networks](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/computer%20networks/index.md)
+* [Data Science](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/data%20science/index.md)
 * Databases
   - Relational database
   - NoSQL database
