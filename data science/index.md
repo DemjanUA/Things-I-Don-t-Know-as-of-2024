@@ -8,3 +8,4 @@ Data Visually
   - Boxplots
   - Line Graphs
   - Scatter Plots
+  - Log Scale 
