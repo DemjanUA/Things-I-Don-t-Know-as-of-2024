@@ -85,3 +85,12 @@
     <li>Vitejs</li>
   </ul>
 </details>
+
+<details>
+  <summary>Code Quality and Documentation</summary>
+  <ul>
+    <li>Linting</li>
+    <li>Static code analysis</li>
+    <li>https://aws.amazon.com/what-is/code-quality/</li>
+  </ul>
+</details>
