@@ -1,5 +1,5 @@
-# Things I Do and Don't Know as of 2024
-Things I Don’t Know as of 2024
+# Things I Do and Don't Know as of 2025
+Things I Don’t Know as of 2025
 
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms%20and%20data%20structures/index.md)
 * [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md)
@@ -18,6 +18,14 @@ Things I Don’t Know as of 2024
 * Operating Systems
 * [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front%20end/index.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
+<details>
+  <summary>Applied AI</summary>
+  <ul>
+    <li>LLM: ChatGPT, Gemini etc.</li>
+    <li>Develoment tools: [continue.dev](https://www.continue.dev/), CodeRabbit.ai, Copilot,  etc.</li>
+  </ul>
+</details>
+
 * API
 * OOP programming
   - SOLID
