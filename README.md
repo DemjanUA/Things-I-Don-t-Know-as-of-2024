@@ -16,7 +16,7 @@ Things I Don’t Know as of 2024
   - Transactions
     - Isolation (Transaction Isolation Levels)
 * Operating Systems
-* [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front-end-development.md)
+* [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front%20end/index.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
 * API
 * OOP programming
