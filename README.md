@@ -2,7 +2,7 @@
 Things I Don’t Know as of 2025
 
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms%20and%20data%20structures/index.md)
-* [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md)
+* [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md) 
 
 * [Computer Networks](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/computer%20networks/index.md)
 * [Data Science](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2024/blob/main/data%20science/index.md)
@@ -22,7 +22,13 @@ Things I Don’t Know as of 2025
   <summary>Applied AI</summary>
   <ul>
     <li>LLM: ChatGPT, Gemini etc.</li>
-    <li>Develoment tools: [continue.dev](https://www.continue.dev/), CodeRabbit.ai, Copilot,  etc.</li>
+    <li>Develoment tools: continue.dev, CodeRabbit.ai, Copilot, snyk.io, etc.</li>
+    <li>Local models: ollama.com</li>
+    <li>livebench.ai/</li>
+    <li>lmarena.ai/</li>
+    <li>Google AI Studio, top-k, top-p</li>
+    <li>MCP Protocol</li>
+    <li>RAG (Retrieval-Augmented Generation)</li>
   </ul>
 </details>
 
