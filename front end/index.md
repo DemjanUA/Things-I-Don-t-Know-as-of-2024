@@ -52,6 +52,17 @@
 </details>
 
 <details>
+  <summary>SEO</summary>
+  <ul>
+    <li>sitemap</li>
+    <li>robots.txt</li>
+    <li>Lighthouse SEO</li>
+    <li>Google Search Console</li>
+    <li>AI search</li>
+  </ul>
+</details>
+
+<details>
   <summary>Analytics</summary>
   <ul>
     <li>*</li>
