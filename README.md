@@ -22,11 +22,11 @@ Things I Don’t Know as of 2025
   <summary>Applied AI</summary>
   <ul>
     <li>LLM: ChatGPT, Gemini etc.</li>
-    <li>Develoment tools: continue.dev, CodeRabbit.ai, Copilot, snyk.io, etc.</li>
+    <li>Development tools: continue.dev, CodeRabbit.ai, Copilot, snyk.io, etc.</li>
     <li>Local models: ollama.com</li>
-    <li>livebench.ai/</li>
+    <li><a href="livebench.ai">livebench.ai</a>/</li>
     <li><a href="lmarena.ai">lmarena.ai</a>/</li>
-    <li><a href="https://openrouter.ai/rankings/programming">openrouter.ai</a>
+    <li><a href="https://openrouter.ai/rankings/programming">openrouter.ai</a></li>
     <li>Google AI Studio, top-k, top-p</li>
     <li>MCP Protocol</li>
     <li>RAG (Retrieval-Augmented Generation)</li>
