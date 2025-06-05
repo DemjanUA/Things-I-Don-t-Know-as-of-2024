@@ -25,7 +25,8 @@ Things I Don’t Know as of 2025
     <li>Develoment tools: continue.dev, CodeRabbit.ai, Copilot, snyk.io, etc.</li>
     <li>Local models: ollama.com</li>
     <li>livebench.ai/</li>
-    <li>lmarena.ai/</li>
+    <li><a href="lmarena.ai">lmarena.ai</a>/</li>
+    <li><a href="https://openrouter.ai/rankings/programming">openrouter.ai</a>
     <li>Google AI Studio, top-k, top-p</li>
     <li>MCP Protocol</li>
     <li>RAG (Retrieval-Augmented Generation)</li>
