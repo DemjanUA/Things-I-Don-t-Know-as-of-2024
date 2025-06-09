@@ -10,4 +10,9 @@
   <li>Google AI Studio, top-k, top-p</li>
   <li>MCP Protocol</li>
   <li>RAG (Retrieval-Augmented Generation)</li>
+  <li>Ai assistants</li>
+    <ul>
+      <li>JetBrains AI and Junie</li>
+      <li>Copilot</li>
+    </ul>
 </ul>
