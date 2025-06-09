@@ -1,4 +1,4 @@
-# Applied AI
+# Applied Artificial Intelligence
 
 <ul>
   <li>LLM: ChatGPT, Gemini etc.</li>
