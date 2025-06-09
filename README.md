@@ -1,6 +1,7 @@
 # Things I Do and Don't Know as of 2025
 Things I Don’t Know as of 2025
 
+* [Applied Artificial Intelligence](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/applied-ai/index.md)
 * [Algorithms and Data Structures](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/algorithms%20and%20data%20structures/index.md)
 * [Software and Data Security (Cybersecurity)](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/software%20and%20data%20security/index.md) 
 
@@ -18,20 +19,7 @@ Things I Don’t Know as of 2025
 * Operating Systems
 * [Front-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/front%20end/index.md)
 * [Back-end development](https://github.com/DemjanUA/Things-I-Don-t-Know-as-of-2021/blob/main/back-end-development.md)
-<details>
-  <summary>Applied AI</summary>
-  <ul>
-    <li>LLM: ChatGPT, Gemini etc.</li>
-    <li>Development tools: continue.dev, CodeRabbit.ai, Copilot, snyk.io, etc.</li>
-    <li>Local models: <a href="https://ollama.com">ollama.com</a></li>
-    <li><a href="https://livebench.ai">livebench.ai</a></li>
-    <li><a href="https://lmarena.ai">lmarena.ai</a></li>
-    <li><a href="https://openrouter.ai/rankings/programming">LLM Ranking from openrouter.ai</a></li>
-    <li>Google AI Studio, top-k, top-p</li>
-    <li>MCP Protocol</li>
-    <li>RAG (Retrieval-Augmented Generation)</li>
-  </ul>
-</details>
+
 
 * API
 * OOP programming
